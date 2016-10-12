@@ -6,8 +6,8 @@ A bold serif typeface with a strong flavour by [Jean-Baptiste Morizot](http://ca
 BluuNext is available on [Velvetyne Type Foundry](http://velvetyne.fr/fonts/bluu/).
 
 
-![specimen1](https://github.com/velvetyne/BluuNext/blob/master/documentation/img/01.jpg)
-![specimen2](https://github.com/velvetyne/BluuNext/blob/master/documentation/img/02.jpg)
+![specimen1](https://github.com/velvetyne/BluuNext/blob/master/Documentation/img/01.jpg)
+![specimen2](https://github.com/velvetyne/BluuNext/blob/master/Documentation/img/02.jpg)
 
 ## License
 
