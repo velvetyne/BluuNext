@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="204"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="51" y="681" type="line"/>
+      <point x="33" y="552" type="line"/>
+      <point x="48" y="552" type="line"/>
+      <point x="171" y="681" type="line"/>
+    </contour>
+  </outline>
+</glyph>

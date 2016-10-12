@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2607.case" format="1">
+  <advance width="409"/>
+  <outline>
+    <contour>
+      <point x="82" y="-6" type="line"/>
+      <point x="379" y="394" type="line"/>
+      <point x="228" y="394" type="line"/>
+      <point x="331" y="692" type="line"/>
+      <point x="327" y="692" type="line"/>
+      <point x="30" y="292" type="line"/>
+      <point x="181" y="292" type="line"/>
+      <point x="78" y="-6" type="line"/>
+    </contour>
+  </outline>
+</glyph>
