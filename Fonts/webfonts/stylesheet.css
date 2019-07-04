@@ -20,9 +20,12 @@
 
 }
 
+
 @font-face {
-    font-family: 'bluuTitling';
+    font-family: 'bluu_nexttitling';
     src: url('BluuNext-Titling.ttf') format('truetype'),
+        url('bluunext-titling.woff2') format('woff2'),
+        url('bluunext-titling.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
